@@ -1,0 +1,12 @@
+{
+	"name": "textto_speech_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "srividhya.s@zohocorp.com",
+	"dependencies": {
+		"confetti-js": "0.0.18",
+		"espree": "^7.3.1",
+		"express": "^4.17.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
